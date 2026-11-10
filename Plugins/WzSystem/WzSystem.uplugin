@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WzSystem",
+	"Description": "Reusable gameplay systems: interaction, MVC-style UI, narrative (dialogue, quests) and path-guide exploration.",
+	"Category": "Gameplay",
+	"CreatedBy": "Wz",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{ "Name": "InteractionSystem", "Type": "Runtime", "LoadingPhase": "Default" },
+		{ "Name": "UISystem", "Type": "Runtime", "LoadingPhase": "Default" },
+		{ "Name": "NarrativeSystem", "Type": "Runtime", "LoadingPhase": "Default" },
+		{ "Name": "NarrativeSystemEditor", "Type": "Editor", "LoadingPhase": "Default" },
+		{ "Name": "ExplorationSystem", "Type": "Runtime", "LoadingPhase": "Default" }
+	],
+	"Plugins": [
+		{ "Name": "EnhancedInput", "Enabled": true },
+		{ "Name": "ProceduralMeshComponent", "Enabled": true }
+	]
+}
