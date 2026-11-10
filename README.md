@@ -5,7 +5,6 @@
 Project by **Eka Putra Meravigliosi** ([@EkaPutra0856](https://github.com/EkaPutra0856)): Game Developer & Team Lead — level design, VR/AR gameplay programming, AI mascot guidance system, and showcase cinematics.
 
 > **Demonstration Media & Videos:**
-> - [Google Drive: AR Simulation Portfolio & Showcase](https://drive.google.com/file/d/1r4Tb66vd3TBGypGh7TkD7mkQiIKZQP7_/view?usp=drive_link)
 > - [Google Drive: Full VR Demo (POV Quest 5:38)](https://drive.google.com/file/d/1r4Tb66vd3TBGypGh7TkD7mkQiIKZQP7_/view?usp=drive_link)
 
 ![Taman Safari VR Entrance](Docs/Screenshots/01_safari_entrance_overview.jpg)
@@ -157,3 +156,4 @@ D:/Projek UE/PortfolioRepos/tamansafari-vr-exhibit/
 - **Project Lead & Developer:** Eka Putra Meravigliosi ([@EkaPutra0856](https://github.com/EkaPutra0856))
 - **Role:** Game Developer & Team Lead — Level Design, VR/AR Programming, Narrative & AI Integration, Media Production.
 - **Client / Organization:** PT Global Impian Teknologi (Exorlens) for Taman Safari Prigen.
+
